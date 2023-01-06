@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @braincellsbyebye
 - 👀 I’m interested in coding logic
 - 🌱 I’m currently learning Python and more languages
-- 💞️ I’m looking to collaborate on nothing, for now
-- 📫 How to reach me: email
+- Aspiring Backend Developer
+- 📫 How to reach me: ezjcd.101@gmail.com
 
 <!---
 braincellsbyebye/braincellsbyebye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
